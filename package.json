@@ -1,0 +1,27 @@
+{
+  "name": "ratslam-experience-map",
+  "version": "1.0.0",
+  "description": "Experience Map for the ratslam algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/ratslam-experience-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/ratslam-experience-map/issues"
+  },
+  "homepage": "https://github.com/stierma1/ratslam-experience-map#readme",
+  "dependencies": {
+    "heap": "^0.2.6"
+  },
+  "devDependencies": {
+    "bitmap-manipulation": "^2.0.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
